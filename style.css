@@ -1,0 +1,73 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #e4eff2;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.right h1{
+    font-size: 60px;
+}
+
+.right h3{
+    font-size: 40px;
+}
+
+.left{
+    height: 1600px;
+    /*background-color: #78a6b4;*/
+    background-color: #292F43;
+}
+
+.right{
+    background-color: #d6e4e8;
+    color: #16516d;
+    height: 1600px;
+}
+
+.marg_cv{
+    margin-top: 50px;   
+}
+
+.img img{
+    width: 250px;
+    height: 300px;
+    display: block;
+    margin: 20px auto;
+    border: solid;
+    border-radius: 60px;
+    
+}
+
+.dane_osobowe{
+    background-color: #4DA1A9;
+    margin: 0 -20px;
+    font-size: 30px;
+    color: #ffffff;
+    border-radius: 5px;
+    
+}
+.tri{
+    width: 0;
+    height: 0;
+    margin: 0 20%;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 20px solid #4DA1A9;
+}
+
+.dane_osobowe p{
+    
+    padding: 0;
+    margin: 0 50px;
+}
+
+i{
+    display: inline-block;
+    float: left;
+}
+
+.info{
+    margin: 0 40px;
+
+}
