@@ -9,6 +9,7 @@ body{
 }
 
 .row{
+
     margin-bottom: 50px;
 }
 .name{
@@ -75,4 +76,8 @@ i{
 .info{
     margin: 0 40px;
 
+}
+footer{
+    position: absolute;
+    bottom: 0;
 }
