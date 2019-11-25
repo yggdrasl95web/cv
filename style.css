@@ -62,6 +62,10 @@ body{
     border-top: 20px solid #4DA1A9;
 }
 
+.add_margin{
+    margin-bottom: 300px;
+}
+
 .dane_osobowe p{
     
     padding: 0;
