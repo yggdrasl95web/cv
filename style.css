@@ -107,4 +107,8 @@ footer{
     .cele_zaw{
         margin-top: 20px;
     }
+    .row{
+        margin-left: 3px;
+        margin-right: 3px;
+    }
 }
