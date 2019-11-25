@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #e4eff2;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .small_w{
@@ -43,7 +43,7 @@ body{
 
 .img img{
     width: 250px;
-    height: 300px;
+    height: auto;
     display: block;
     margin: 20px auto;
     border: solid;
