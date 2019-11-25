@@ -99,5 +99,12 @@ footer{
     }
     .small_w{
         display: block;
+        margin-bottom: 20px;
+    }
+    .img{
+        display: none;
+    }
+    .cele_zaw{
+        margin-top: 20px;
     }
 }
