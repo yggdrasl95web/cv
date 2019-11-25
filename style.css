@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #e4eff2;
     color: #ffffff;
-    font-size: 25px;
+    font-size: 23px;
 }
 
 .small_w{
@@ -106,9 +106,13 @@ footer{
         display: none;
     }
     .cele_zaw{
-        margin-top: 20px;
+        margin-top: 30px;
     }
     .row{
 
     }
+    .mail{
+        font-size: 22px;
+    }
+
 }
